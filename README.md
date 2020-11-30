@@ -2,4 +2,4 @@
 
 https://github.com/wwojciech89/wwojciech89.github.io/blob/main/zdjecie%20profilowe.jpg
 
-![alt text](./zdjecie profilowe)
+![alt text](./zdjecie profilowe.jpg)
