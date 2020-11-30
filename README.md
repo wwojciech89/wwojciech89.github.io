@@ -12,10 +12,10 @@
 
 ![alt text](./projekt1.png)
 
-2. [secound project](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+2. [secound project](https://dribbble.com/shots/14667851-Shtyler/attachments/6364106?mode=media)
 
 ![alt text](./projekt2.png)
 
-3. [third project](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+3. [third project](https://dribbble.com/shots/14668473-Music-Player-App-PlayMusiQ)
 
 ![alt text](./projekt3.png)
