@@ -1,5 +1,16 @@
 # wwojciech89.github.io
 
-https://github.com/wwojciech89/wwojciech89.github.io/blob/main/zdjecie%20profilowe.jpg
 
 ![alt text](./zdjecie profilowe.jpg)
+
+
+
+## Pages to work with on prepering dev skills:
+
+1. [projekt pierwszy](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+
+
+2. [projekt drugi](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+
+
+3. [projekt trzeci](https://dribbble.com/shots/14672657-Banners-for-marketplace)
