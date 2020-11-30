@@ -8,14 +8,14 @@
 
 #### Pages to work with on prepering dev skills:
 
-1. [projekt pierwszy](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+1. [first project](https://dribbble.com/shots/14672657-Banners-for-marketplace)
 
 ![alt text](./projekt1.png)
 
-2. [projekt drugi](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+2. [secound project](https://dribbble.com/shots/14672657-Banners-for-marketplace)
 
 ![alt text](./projekt2.png)
 
-3. [projekt trzeci](https://dribbble.com/shots/14672657-Banners-for-marketplace)
+3. [third project](https://dribbble.com/shots/14672657-Banners-for-marketplace)
 
 ![alt text](./projekt3.png)
