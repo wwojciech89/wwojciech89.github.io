@@ -1,6 +1,6 @@
 # wwojciech89.github.io
 
-## Welcome to my Gtihub page!
+## Welcome to my Github page!
 #### My name is Mariusz and I'm learning on my FrontEnd skills.
 ![alt text](./zdjecie profilowe.jpg)
 
@@ -16,6 +16,6 @@
 
 ![alt text](./projekt2.png)
 
-3. [third project](https://dribbble.com/shots/14668473-Music-Player-App-PlayMusiQ)
+3. [third project](https://open.spotify.com/)
 
 ![alt text](./projekt3.png)
