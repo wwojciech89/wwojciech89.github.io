@@ -1,8 +1,8 @@
 # wwojciech89.github.io
 
 ## Welcome to my Github page!
-#### My name is Mariusz and I'm learning on my FrontEnd skills.
-![alt text](./zdjecie profilowe.jpg)
+#### My name is Mariusz and I'm working on my FrontEnd skills.
+![Mariusz] (./zdjecieprofilowe.jpg)
 
 
 
