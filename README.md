@@ -18,4 +18,4 @@
 
 3. [third project](https://open.spotify.com/)
 
-![alt text](./projekt3.png)
+![alt text](./project3.png)
