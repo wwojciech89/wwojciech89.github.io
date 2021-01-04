@@ -1,0 +1,210 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+    background: rgb(69,59,231);
+    background: linear-gradient(14deg, rgba(69,59,231,1) 0%, rgba(5,242,247,1) 100%);
+    position: relative;
+}
+
+body::before {
+    content: '';
+    background-image: url(./Pictures/background.jpg);
+    background-size: cover;
+    height: 100vh;
+    display: block;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.2;
+    width: 100%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Right side */
+
+.rightside {
+    background-color: red;
+    background-position: 0 20%;
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-image: url(/Pictures/zdjecie\ profilowe.jpg)
+    
+}
+
+
+.foto {
+    width: 327px;
+    height: 450px;
+}
+
+/* Left side */
+
+.leftside {
+    position: relative;
+    width: 400px;
+}
+.titlerow {
+    width: 100%;
+}
+
+h1 {
+    position: relative;
+    left: -50px;
+    cursor: default;
+}
+
+h1::before {
+    content: '';
+    left: -60px;
+    top: -50px;
+    width: 50px;
+    height: 100px;
+    background-color: rgb(204, 99, 0);
+    position: absolute;
+    transition: ease-in-out 0.5s all;
+}
+
+h1::after {
+    content: '';
+    right: -60px;
+    width: 50px;
+    height: 100px;
+    background-color: rgb(13, 13, 187);
+    position: absolute;
+    transition: ease-in-out 0.5s all;
+}
+
+h1:hover::after {
+    height: 340px;
+}
+
+h1:hover::before {
+    top: -150px;
+    height: 200px;
+}
+
+.subtitle {
+    font-size: 17px;
+    color: white;
+}
+
+.border {   
+    margin-top: 5px;
+    display: inline-block;
+    border-bottom: 3px solid rgb(204, 99, 0);
+    width: 187.5px ;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.button__container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.button {
+ border: 1px solid rgb(83, 82, 82);
+ border-radius: 15px;
+ width: 200px;
+ height: 35px;
+ text-align: center;
+ margin-top: 3px;
+ background-color: black;
+}
+
+.button:hover {
+    background-color: rgb(13, 13, 187);
+    border: 1px solid rgb(13, 13, 187);
+    transition: all .2s  ease-in-out;
+    cursor: default;
+}
+
+span {
+    display: inline-block;
+    margin-top: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.navigation__buttons {
+    margin-top: 10px;
+    display: flex;
+    width: 200px;
+    align-content: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.navigation__image {
+ width: 30px;
+ height: 30px;
+ border-radius: 50%;
+ transition: ease-in-out 0.4s all;
+}
+
+.navigation__image:hover {
+    transform: rotate(-90deg) scale(1.1);
+    background-color: rgb(204, 99, 0);
+    border-radius: 50%;
+}
+
+@media(max-width: 1250px)  {
+    h1::after {
+        display: none;
+    }
+    h1::before {
+        display: none;
+    }
+    h1 {
+        left: 0;
+    }
+}
+
+@media(max-width: 1220px) {
+    .container {
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .rightside {
+        width: 250px;
+        height: 250px; 
+    }
+}
+@media(max-width: 700px) {
+    .container {
+        justify-content: flex-end;
+        padding-top: 50px;
+    }
+}
+
+@media(max-width: 420px) {
+    .rightside {
+        width: 200px;
+        height: 200px; 
+    }
+    h1 {
+        font-size: 22px;
+    }
+    .container {
+        align-items: left;
+    }
+    .leftside {
+        width: 280px;
+    }
+}
