@@ -2,7 +2,7 @@
 
 ## Welcome to my Github page!
 #### My name is Mariusz and I'm working on my FrontEnd skills.
-![Mariusz] (./zdjecieprofilowe.jpg)
+![Mariusz] (./zdjecie profilowe.jpg)
 
 
 
