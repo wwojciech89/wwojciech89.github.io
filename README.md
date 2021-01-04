@@ -10,12 +10,12 @@
 
 1. Project 
 
-![alt text](./projekt1.png)
+![Project 1 picture](project1.PNG)
 
 2. Project
 
-![alt text](./projekt2.png)
+![Project 2 picture](project2.PNG)
 
 3. Project
 
-![alt text](./project3.png)
+![Project 3 picture](project3.PNG)
